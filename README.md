@@ -100,6 +100,6 @@ python manage.py runserver
 
 📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
 
-💼 [LinkedIn-varshithalu](https://www.linkedin.com/in/varshithalu/)
+💼 [LinkedIn - varshithalu](https://www.linkedin.com/in/varshithalu/)
 
-💻 [Github-varshithalu](https://github.com/varshithalu)
+💻 [Github - varshithalu](https://github.com/varshithalu)
