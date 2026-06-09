@@ -79,21 +79,23 @@ npm install
 npm run dev
 ```
 
-## Backend
+# Backend
+```bash
 cd Backend
-# Create virtual environment 
+- Create virtual environment 
 python -m venv venv
-# Activate virtual environment
-# Windows - venv\Scripts\activate
-# macOS/Linux - source venv/bin/activate  
-# Install dependencies
+- Activate virtual environment
+Windows - venv\Scripts\activate
+macOS/Linux - source venv/bin/activate  
+- Install dependencies
 pip install -r requirements.txt
-# Apply migrations
+- Apply migrations
 python manage.py migrate
-# Run development server
+- Run development server
 python manage.py runserver
+```
 
 ## 👩‍💻 Author
 Varshitha L U
-[Gmail] luvarshitha3139@gmail.com 
+[Gmail]luvarshitha3139@gmail.com 
 [LinkedIn](https://www.linkedin.com/in/varshithalu/)
