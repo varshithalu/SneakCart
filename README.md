@@ -1,6 +1,8 @@
 # 👟 SneakCart – Modern Shoe Delivery E-Commerce Platform
 
-<p> <h2> Project Showcase </h2>
+--- 
+
+<p> <h2>🌟 Project Showcase </h2>
   <a href="https://varshithalu.github.io/SneakCart/" target="_blank">
     <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
   </a>
