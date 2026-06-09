@@ -1,8 +1,21 @@
 # 👟 SneakCart – Modern Shoe Delivery E-Commerce Platform
 
+
+🚀 **Project Showcase:**  
+https://varshithalu.github.io/SneakCart/
+
+📂 **GitHub Repository:**  
+https://github.com/varshithalu/SneakCart
+
+<p align="center">
+  <a href="https://varshithalu.github.io/SneakCart/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
+
 ## 📌 Overview
 
-SneakCart is a modern e-commerce web application focused on online shoe shopping and delivery. The platform provides users with an interactive shopping experience including cart management, wishlist functionality, authentication, and AI chatbot support.
+SneakCart is a full-stack e-commerce platform designed for online shoe shopping. It enables users to browse products, manage carts and wishlists, authenticate securely, and receive AI-powered shopping assistance through an integrated chatbot.
 
 ---
 
@@ -76,19 +89,16 @@ npm install
 npm run dev
 ```
 
-# Backend
+## Backend
 ```bash
 cd Backend
-- Create virtual environment 
 python -m venv venv
-- Activate virtual environment
-Windows - venv\Scripts\activate
-macOS/Linux - source venv/bin/activate  
-- Install dependencies
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
 pip install -r requirements.txt
-- Apply migrations
 python manage.py migrate
-- Run development server
 python manage.py runserver
 ```
 
