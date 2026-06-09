@@ -1,5 +1,10 @@
 # 👟 SneakCart – Modern Shoe Delivery E-Commerce Platform
 
+<p align="center">
+  <a href="https://varshithalu.github.io/SneakCart/" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
+  </a>
+</p>
 
 🚀 **Project Showcase:**  
 https://varshithalu.github.io/SneakCart/
@@ -7,11 +12,6 @@ https://varshithalu.github.io/SneakCart/
 📂 **GitHub Repository:**  
 https://github.com/varshithalu/SneakCart
 
-<p align="center">
-  <a href="https://varshithalu.github.io/SneakCart/" target="_blank">
-    <img src="https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge" />
-  </a>
-</p>
 
 ## 📌 Overview
 
