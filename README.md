@@ -1,6 +1,3 @@
-
-# 4. SneakCart
-
 # 👟 SneakCart – Modern Shoe Delivery E-Commerce Platform
 
 ## 📌 Overview
@@ -96,6 +93,6 @@ python manage.py runserver
 ```
 
 ## 👩‍💻 Author
-Varshitha L U
-[Gmail]luvarshitha3139@gmail.com 
-[LinkedIn](https://www.linkedin.com/in/varshithalu/)
+**Varshitha L U**
+📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/varshithalu/)
