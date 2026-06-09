@@ -94,5 +94,7 @@ python manage.py runserver
 
 ## 👩‍💻 Author
 **Varshitha L U**
+
 📧 [luvarshitha3139@gmail.com](mailto:luvarshitha3139@gmail.com)
+
 🔗 [LinkedIn](https://www.linkedin.com/in/varshithalu/)
