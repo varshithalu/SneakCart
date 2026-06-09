@@ -6,12 +6,6 @@
   </a>
 </p>
 
-🚀 **Project Showcase:**  
-https://varshithalu.github.io/SneakCart/
-
-📂 **GitHub Repository:**  
-https://github.com/varshithalu/SneakCart
-
 
 ## 📌 Overview
 
